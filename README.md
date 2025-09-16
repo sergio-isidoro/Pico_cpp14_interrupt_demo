@@ -1,4 +1,4 @@
-# ⚙️ Raspberry Pi Pico LED Blinker with EXTI Interrupts (C++14)
+# Raspberry Pi Pico LED Blinker with EXTI Interrupts (C++14)
 
 A modern, C++14-based project using the **Pico SDK** on the **Raspberry Pi Pico**, where two LEDs blink with different intervals — and a button connected via an **interrupt (EXTI)** toggles the pause/resume state of both LEDs in real time.
 
